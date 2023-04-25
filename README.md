@@ -23,6 +23,6 @@ $ node index.js strawberry
 Invalid emoji names will print an error
 
 ```bash
-TODO node index.js strawberryyyy
+$ node index.js strawberryyyy
 Invalid emoji name
 ```
