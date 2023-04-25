@@ -1,5 +1,5 @@
 # Node Random Emoji Generator
 
 ```
-TODO
+TODO add an outpot for the program
 ```
